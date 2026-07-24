@@ -1,0 +1,218 @@
+[
+  {
+    "id": "parable_24",
+    "word": "Про багатія і Лазаря",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про багатія та жебрака Лазаря, які померли.",
+    "enabled": true
+  },
+  {
+    "id": "parable_6",
+    "word": "Про блудного сина",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про сина, який залишив батька, а потім покаявся.",
+    "enabled": true
+  },
+  {
+    "id": "parable_16",
+    "word": "Про велику вечерю",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про господаря, який запросив багатьох на вечерю.",
+    "enabled": true
+  },
+  {
+    "id": "parable_20",
+    "word": "Про виноградарів",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про виноградарів, які не віддали плоду господареві.",
+    "enabled": true
+  },
+  {
+    "id": "parable_27",
+    "word": "Про вівцю",
+    "category": "Притчі",
+    "difficulty": "експерт",
+    "description": "Притча пророка Натана про багатія, що забрав єдину вівцю бідняка.",
+    "enabled": true
+  },
+  {
+    "id": "parable_8",
+    "word": "Про вівцю загублену",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про пастиря, який шукає одну загублену вівцю.",
+    "enabled": true
+  },
+  {
+    "id": "parable_22",
+    "word": "Про господаря",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про господаря, який не знає, коли прийде злодій.",
+    "enabled": true
+  },
+  {
+    "id": "parable_15",
+    "word": "Про гостей на весілля",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про запрошених на велику вечерю, які відмовилися.",
+    "enabled": true
+  },
+  {
+    "id": "parable_14",
+    "word": "Про дві дороги",
+    "category": "Притчі",
+    "difficulty": "експерт",
+    "description": "Притча про вузьку та широку дороги, що ведуть до різного кінця.",
+    "enabled": true
+  },
+  {
+    "id": "parable_21",
+    "word": "Про дві основи",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про мудрого та нерозумного будівничих.",
+    "enabled": true
+  },
+  {
+    "id": "parable_26",
+    "word": "Про дерева",
+    "category": "Притчі",
+    "difficulty": "експерт",
+    "description": "Притча Йотама про дерева, які вибирали собі царя.",
+    "enabled": true
+  },
+  {
+    "id": "parable_23",
+    "word": "Про десятину",
+    "category": "Притчі",
+    "difficulty": "експерт",
+    "description": "Згадка про фарисея, який хвалився, що дає десятину.",
+    "enabled": true
+  },
+  {
+    "id": "parable_18",
+    "word": "Про десять дів",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про десять дів, які чекали нареченого зі світильниками.",
+    "enabled": true
+  },
+  {
+    "id": "parable_7",
+    "word": "Про доброго самарянина",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про самарянина, який допоміг побитому подорожньому.",
+    "enabled": true
+  },
+  {
+    "id": "parable_3",
+    "word": "Про закваску",
+    "category": "Притчі",
+    "difficulty": "експерт",
+    "description": "Притча про закваску, яка заквашує все тісто.",
+    "enabled": true
+  },
+  {
+    "id": "parable_2",
+    "word": "Про зерно гірчичне",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про гірчичне зерно, що виростає у велике дерево.",
+    "enabled": true
+  },
+  {
+    "id": "parable_9",
+    "word": "Про немилосердного боржника",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про слугу, якому простили великий борг, але він не простив іншому.",
+    "enabled": true
+  },
+  {
+    "id": "parable_13",
+    "word": "Про нерозумного багача",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про багача, який збирав скарби, але не був багатий у Бога.",
+    "enabled": true
+  },
+  {
+    "id": "parable_5",
+    "word": "Про перлину",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про купця, який шукав дорогоцінну перлину.",
+    "enabled": true
+  },
+  {
+    "id": "parable_12",
+    "word": "Про прохання друга",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про друга, який прийшов позичити хліб опівночі.",
+    "enabled": true
+  },
+  {
+    "id": "parable_11",
+    "word": "Про пшеницю і кукіль",
+    "category": "Притчі",
+    "difficulty": "експерт",
+    "description": "Притча про пшеницю та кукіль, що ростуть разом до жнив.",
+    "enabled": true
+  },
+  {
+    "id": "parable_4",
+    "word": "Про скарб у полі",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про схований скарб, який знайшов чоловік у полі.",
+    "enabled": true
+  },
+  {
+    "id": "parable_17",
+    "word": "Про срібняки",
+    "category": "Притчі",
+    "difficulty": "експерт",
+    "description": "Притча про жінку, яка шукала загублену монету.",
+    "enabled": true
+  },
+  {
+    "id": "parable_10",
+    "word": "Про сіті",
+    "category": "Притчі",
+    "difficulty": "експерт",
+    "description": "Притча про невід, який зібрав рибу всякого роду.",
+    "enabled": true
+  },
+  {
+    "id": "parable_1",
+    "word": "Про сіяча",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про сіяча, який сіяв зерно на різний ґрунт.",
+    "enabled": true
+  },
+  {
+    "id": "parable_19",
+    "word": "Про таланти",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про пана, який дав слугам таланти для примноження.",
+    "enabled": true
+  },
+  {
+    "id": "parable_25",
+    "word": "Про фарисея і митника",
+    "category": "Притчі",
+    "difficulty": "середній",
+    "description": "Притча про гордого фарисея та смиренного митника.",
+    "enabled": true
+  }
+]

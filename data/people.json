@@ -1,0 +1,1410 @@
+[
+  {
+    "id": "person_1",
+    "word": "Єва",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Перша жінка, мати всіх живих",
+    "enabled": true
+  },
+  {
+    "id": "person_2",
+    "word": "Єзавель",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Цариця, дружина Ахава",
+    "enabled": true
+  },
+  {
+    "id": "person_3",
+    "word": "Єзекія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Юдеї",
+    "enabled": true
+  },
+  {
+    "id": "person_4",
+    "word": "Єзекіїл",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Пророк, автор Книги Єзекіїля",
+    "enabled": true
+  },
+  {
+    "id": "person_5",
+    "word": "Єлисавета",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Мати Івана Хрестителя",
+    "enabled": true
+  },
+  {
+    "id": "person_6",
+    "word": "Єлисей",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Пророк, наступник Іллі",
+    "enabled": true
+  },
+  {
+    "id": "person_7",
+    "word": "Єремія",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Пророк, автор Книги Єремії",
+    "enabled": true
+  },
+  {
+    "id": "person_8",
+    "word": "Єровоам",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "person_9",
+    "word": "Єфрем",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Син Йосипа, родоначальник коліна",
+    "enabled": true
+  },
+  {
+    "id": "person_10",
+    "word": "Єфтай",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Суддя Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "person_11",
+    "word": "Іван",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Апостол, брат Якова, автор Євангелія",
+    "enabled": true
+  },
+  {
+    "id": "person_12",
+    "word": "Іван Хреститель",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Пророк, який хрестив Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "person_13",
+    "word": "Ізмаїл",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Авраама та Агарі",
+    "enabled": true
+  },
+  {
+    "id": "person_14",
+    "word": "Ілля",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Пророк, взятий на небо в огненній колісниці",
+    "enabled": true
+  },
+  {
+    "id": "person_15",
+    "word": "Ірод Антипа",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Тетрарх Галілеї",
+    "enabled": true
+  },
+  {
+    "id": "person_16",
+    "word": "Ірод Великий",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Цар Юдеї, наказав убити немовлят",
+    "enabled": true
+  },
+  {
+    "id": "person_17",
+    "word": "Іродіада",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дружина Ірода Антипи",
+    "enabled": true
+  },
+  {
+    "id": "person_18",
+    "word": "Ісав",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Ісака та Ревеки, старший брат Якова",
+    "enabled": true
+  },
+  {
+    "id": "person_19",
+    "word": "Ісак",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Син Авраама та Сари",
+    "enabled": true
+  },
+  {
+    "id": "person_20",
+    "word": "Ісая",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Великий пророк Старого Заповіту",
+    "enabled": true
+  },
+  {
+    "id": "person_21",
+    "word": "Іссахар",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Якова та Лії",
+    "enabled": true
+  },
+  {
+    "id": "person_22",
+    "word": "Ісус Навин",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Наступник Мойсея, вождь Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "person_23",
+    "word": "Ісус Христос",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Син Божий, Спаситель світу",
+    "enabled": true
+  },
+  {
+    "id": "person_24",
+    "word": "Аарон",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Брат Мойсея, перший первосвященник",
+    "enabled": true
+  },
+  {
+    "id": "person_25",
+    "word": "Авдій",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Управитель дому Ахава",
+    "enabled": true
+  },
+  {
+    "id": "person_26",
+    "word": "Авель",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Син Адама та Єви, убитий Каїном",
+    "enabled": true
+  },
+  {
+    "id": "person_27",
+    "word": "Авесалом",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Давида, який повстав проти батька",
+    "enabled": true
+  },
+  {
+    "id": "person_28",
+    "word": "Авраам",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Батько єврейського народу",
+    "enabled": true
+  },
+  {
+    "id": "person_29",
+    "word": "Авімелех",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Гедеона, цар Сихему",
+    "enabled": true
+  },
+  {
+    "id": "person_30",
+    "word": "Агар",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Служниця Сари, мати Ізмаїла",
+    "enabled": true
+  },
+  {
+    "id": "person_31",
+    "word": "Адам",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Перша людина, створена Богом",
+    "enabled": true
+  },
+  {
+    "id": "person_32",
+    "word": "Азарія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Священник",
+    "enabled": true
+  },
+  {
+    "id": "person_33",
+    "word": "Акила",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Чоловік Прискилли, співробітник Павла",
+    "enabled": true
+  },
+  {
+    "id": "person_34",
+    "word": "Аман",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Ворог євреїв при перському дворі",
+    "enabled": true
+  },
+  {
+    "id": "person_35",
+    "word": "Амнон",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Давида",
+    "enabled": true
+  },
+  {
+    "id": "person_36",
+    "word": "Амос",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Пророк, автор Книги Амоса",
+    "enabled": true
+  },
+  {
+    "id": "person_37",
+    "word": "Ананія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Чоловік Сапфіри, покараний за обман",
+    "enabled": true
+  },
+  {
+    "id": "person_38",
+    "word": "Андрій",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Апостол, брат Петра",
+    "enabled": true
+  },
+  {
+    "id": "person_39",
+    "word": "Анна",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Мати Самуїла",
+    "enabled": true
+  },
+  {
+    "id": "person_40",
+    "word": "Аод",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Суддя Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "person_41",
+    "word": "Аполлос",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Промовець і вчитель з Олександрії",
+    "enabled": true
+  },
+  {
+    "id": "person_42",
+    "word": "Аса",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Юдеї",
+    "enabled": true
+  },
+  {
+    "id": "person_43",
+    "word": "Асир",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Якова від Зілпи",
+    "enabled": true
+  },
+  {
+    "id": "person_44",
+    "word": "Ахав",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Цар Ізраїля, чоловік Єзавелі",
+    "enabled": true
+  },
+  {
+    "id": "person_45",
+    "word": "Барак",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Воєначальник при Деворі",
+    "enabled": true
+  },
+  {
+    "id": "person_46",
+    "word": "Вааса",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "person_47",
+    "word": "Валаам",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк, якого найняв Валак",
+    "enabled": true
+  },
+  {
+    "id": "person_48",
+    "word": "Валак",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Моавський цар",
+    "enabled": true
+  },
+  {
+    "id": "person_49",
+    "word": "Валла",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Служниця Рахилі",
+    "enabled": true
+  },
+  {
+    "id": "person_50",
+    "word": "Валтасар",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Вавилонський цар, син Навуходоносора",
+    "enabled": true
+  },
+  {
+    "id": "person_51",
+    "word": "Варнава",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Супутник Павла в місійних подорожах",
+    "enabled": true
+  },
+  {
+    "id": "person_52",
+    "word": "Варфоломій",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Апостол Ісуса Христа",
+    "enabled": true
+  },
+  {
+    "id": "person_53",
+    "word": "Варісус",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Лжепророк",
+    "enabled": true
+  },
+  {
+    "id": "person_54",
+    "word": "Веніамин",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Молодший син Якова та Рахилі",
+    "enabled": true
+  },
+  {
+    "id": "person_55",
+    "word": "Вооз",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Чоловік Рут",
+    "enabled": true
+  },
+  {
+    "id": "person_56",
+    "word": "Вірсавія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дружина Урії, мати Соломона",
+    "enabled": true
+  },
+  {
+    "id": "person_57",
+    "word": "Гавриїл",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Ангел, який сповістив Марії народження Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "person_58",
+    "word": "Гад",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Якова від Зілпи",
+    "enabled": true
+  },
+  {
+    "id": "person_59",
+    "word": "Давид",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Цар Ізраїля, автор псалмів",
+    "enabled": true
+  },
+  {
+    "id": "person_60",
+    "word": "Даліла",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Жінка, яка зрадила Самсона",
+    "enabled": true
+  },
+  {
+    "id": "person_61",
+    "word": "Дан",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Якова від Валли",
+    "enabled": true
+  },
+  {
+    "id": "person_62",
+    "word": "Даниїл",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк у вавилонському полоні",
+    "enabled": true
+  },
+  {
+    "id": "person_63",
+    "word": "Девора",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Пророчиця і суддя Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "person_64",
+    "word": "Діна",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дочка Якова та Лії",
+    "enabled": true
+  },
+  {
+    "id": "person_65",
+    "word": "Ездра",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Писар і священник, учитель Закону",
+    "enabled": true
+  },
+  {
+    "id": "person_66",
+    "word": "Енох",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Праведник, взятий Богом на небо",
+    "enabled": true
+  },
+  {
+    "id": "person_67",
+    "word": "Естер",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Цариця Персії, врятувала євреїв",
+    "enabled": true
+  },
+  {
+    "id": "person_68",
+    "word": "Завулон",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Якова та Лії",
+    "enabled": true
+  },
+  {
+    "id": "person_69",
+    "word": "Закхей",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Митник, який прийняв Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "person_70",
+    "word": "Захарія",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Пророк, автор Книги Захарії",
+    "enabled": true
+  },
+  {
+    "id": "person_71",
+    "word": "Зоровавель",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Вождь",
+    "enabled": true
+  },
+  {
+    "id": "person_72",
+    "word": "Зілпа",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Служниця Лії",
+    "enabled": true
+  },
+  {
+    "id": "person_73",
+    "word": "Йоав",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Воєначальник царя Давида",
+    "enabled": true
+  },
+  {
+    "id": "person_74",
+    "word": "Йоаш",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Юдеї",
+    "enabled": true
+  },
+  {
+    "id": "person_75",
+    "word": "Йов",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Праведник, який зазнав великих страждань",
+    "enabled": true
+  },
+  {
+    "id": "person_76",
+    "word": "Йона",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Пророк, проковтнутий великою рибою",
+    "enabled": true
+  },
+  {
+    "id": "person_77",
+    "word": "Йонатан",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Саула, друг Давида",
+    "enabled": true
+  },
+  {
+    "id": "person_78",
+    "word": "Йосафат",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Юдеї",
+    "enabled": true
+  },
+  {
+    "id": "person_79",
+    "word": "Йосип",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Син Якова, проданий у Єгипет",
+    "enabled": true
+  },
+  {
+    "id": "person_80",
+    "word": "Йосип Ариматейський",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Член ради, який поховав Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "person_81",
+    "word": "Йосія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Юдеї",
+    "enabled": true
+  },
+  {
+    "id": "person_82",
+    "word": "Йотам",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Гедеона",
+    "enabled": true
+  },
+  {
+    "id": "person_83",
+    "word": "Йоіл",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк, автор Книги Йоіла",
+    "enabled": true
+  },
+  {
+    "id": "person_84",
+    "word": "Кайяфа",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Первосвященник на суді над Ісусом",
+    "enabled": true
+  },
+  {
+    "id": "person_85",
+    "word": "Каїн",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Син Адама та Єви, убив Авеля",
+    "enabled": true
+  },
+  {
+    "id": "person_86",
+    "word": "Кир",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Перський цар, дозволив євреям повернутись",
+    "enabled": true
+  },
+  {
+    "id": "person_87",
+    "word": "Клавдія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Християнка",
+    "enabled": true
+  },
+  {
+    "id": "person_88",
+    "word": "Клеопа",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Учень на дорозі до Емауса",
+    "enabled": true
+  },
+  {
+    "id": "person_89",
+    "word": "Корнелій",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Римський сотник, навернений Петром",
+    "enabled": true
+  },
+  {
+    "id": "person_90",
+    "word": "Корнилій",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Римський сотник",
+    "enabled": true
+  },
+  {
+    "id": "person_91",
+    "word": "Лаван",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Брат Ревеки, батько Рахилі та Лії",
+    "enabled": true
+  },
+  {
+    "id": "person_92",
+    "word": "Лазар",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Брат Марії та Марти, воскреслий з мертвих",
+    "enabled": true
+  },
+  {
+    "id": "person_93",
+    "word": "Лот",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Племінник Авраама",
+    "enabled": true
+  },
+  {
+    "id": "person_94",
+    "word": "Лука",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Автор Євангелія від Луки та Дій Апостолів",
+    "enabled": true
+  },
+  {
+    "id": "person_95",
+    "word": "Лідія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Продавець багряниці",
+    "enabled": true
+  },
+  {
+    "id": "person_96",
+    "word": "Лія",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Старша дочка Лавана, дружина Якова",
+    "enabled": true
+  },
+  {
+    "id": "person_97",
+    "word": "Малахія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк, автор Книги Малахії",
+    "enabled": true
+  },
+  {
+    "id": "person_98",
+    "word": "Малх",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Слуга первосвященника",
+    "enabled": true
+  },
+  {
+    "id": "person_99",
+    "word": "Манасія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Йосипа, родоначальник коліна",
+    "enabled": true
+  },
+  {
+    "id": "person_100",
+    "word": "Марк",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Автор Євангелія від Марка",
+    "enabled": true
+  },
+  {
+    "id": "person_101",
+    "word": "Марта",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Сестра Марії та Лазаря",
+    "enabled": true
+  },
+  {
+    "id": "person_102",
+    "word": "Маріам",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Сестра Мойсея та Аарона, пророчиця",
+    "enabled": true
+  },
+  {
+    "id": "person_103",
+    "word": "Марія",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Мати Ісуса Христа",
+    "enabled": true
+  },
+  {
+    "id": "person_104",
+    "word": "Марія Магдалина",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Учениця Ісуса, перша свідка воскресіння",
+    "enabled": true
+  },
+  {
+    "id": "person_105",
+    "word": "Матвій",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Апостол, автор Євангелія від Матвія",
+    "enabled": true
+  },
+  {
+    "id": "person_106",
+    "word": "Матій",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Апостол, обраний замість Юди Іскаріота",
+    "enabled": true
+  },
+  {
+    "id": "person_107",
+    "word": "Мелхола",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дочка Саула, дружина Давида",
+    "enabled": true
+  },
+  {
+    "id": "person_108",
+    "word": "Мелхіседек",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Салиму, священник Бога Всевишнього",
+    "enabled": true
+  },
+  {
+    "id": "person_109",
+    "word": "Михаїл",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Архангел, вождь небесного війська",
+    "enabled": true
+  },
+  {
+    "id": "person_110",
+    "word": "Михей",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк, автор Книги Михея",
+    "enabled": true
+  },
+  {
+    "id": "person_111",
+    "word": "Мойсей",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Пророк, вивів Ізраїль з Єгипту",
+    "enabled": true
+  },
+  {
+    "id": "person_112",
+    "word": "Мордехай",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Двоюрідний брат Естер",
+    "enabled": true
+  },
+  {
+    "id": "person_113",
+    "word": "Навал",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Чоловік Авігеї",
+    "enabled": true
+  },
+  {
+    "id": "person_114",
+    "word": "Навуходоносор",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Вавилонський цар, зруйнував Єрусалим",
+    "enabled": true
+  },
+  {
+    "id": "person_115",
+    "word": "Натан",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк за часів Давида",
+    "enabled": true
+  },
+  {
+    "id": "person_116",
+    "word": "Наум",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк, автор Книги Наума",
+    "enabled": true
+  },
+  {
+    "id": "person_117",
+    "word": "Нефталим",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Якова від Валли",
+    "enabled": true
+  },
+  {
+    "id": "person_118",
+    "word": "Неємія",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Відбудував стіни Єрусалима",
+    "enabled": true
+  },
+  {
+    "id": "person_119",
+    "word": "Никодим",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Фарисей, таємний учень Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "person_120",
+    "word": "Ноемі",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Свекруха Рут",
+    "enabled": true
+  },
+  {
+    "id": "person_121",
+    "word": "Ной",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Праведник, збудував ковчег",
+    "enabled": true
+  },
+  {
+    "id": "person_122",
+    "word": "Овдій",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк, автор Книги Овдія",
+    "enabled": true
+  },
+  {
+    "id": "person_123",
+    "word": "Ог",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Башану",
+    "enabled": true
+  },
+  {
+    "id": "person_124",
+    "word": "Огій",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк, автор Книги Огія",
+    "enabled": true
+  },
+  {
+    "id": "person_125",
+    "word": "Омрі",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Цар Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "person_126",
+    "word": "Онисим",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Раб Филимона, навернений Павлом",
+    "enabled": true
+  },
+  {
+    "id": "person_127",
+    "word": "Орпа",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Невістка Ноемі",
+    "enabled": true
+  },
+  {
+    "id": "person_128",
+    "word": "Осія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк, автор Книги Осії",
+    "enabled": true
+  },
+  {
+    "id": "person_129",
+    "word": "Павло",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Апостол язичників, автор послань",
+    "enabled": true
+  },
+  {
+    "id": "person_130",
+    "word": "Петро",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Апостол, перший з дванадцяти",
+    "enabled": true
+  },
+  {
+    "id": "person_131",
+    "word": "Пилип",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Євангеліст і диякон",
+    "enabled": true
+  },
+  {
+    "id": "person_132",
+    "word": "Понтій Пілат",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Римський прокуратор Юдеї",
+    "enabled": true
+  },
+  {
+    "id": "person_133",
+    "word": "Прискилла",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дружина Акили, співробітниця Павла",
+    "enabled": true
+  },
+  {
+    "id": "person_134",
+    "word": "Рахав",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Жінка з Єрихону, сховала розвідників",
+    "enabled": true
+  },
+  {
+    "id": "person_135",
+    "word": "Рахиль",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дружина Якова, мати Йосипа",
+    "enabled": true
+  },
+  {
+    "id": "person_136",
+    "word": "Ревека",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дружина Ісака, мати Якова та Ісава",
+    "enabled": true
+  },
+  {
+    "id": "person_137",
+    "word": "Рода",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Служниця",
+    "enabled": true
+  },
+  {
+    "id": "person_138",
+    "word": "Рувим",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Якова та Лії",
+    "enabled": true
+  },
+  {
+    "id": "person_139",
+    "word": "Рут",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Моавійська жінка, прабабуся Давида",
+    "enabled": true
+  },
+  {
+    "id": "person_140",
+    "word": "Руф",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Християнин у Римі",
+    "enabled": true
+  },
+  {
+    "id": "person_141",
+    "word": "Савл",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Єврейське ім'я апостола Павла",
+    "enabled": true
+  },
+  {
+    "id": "person_142",
+    "word": "Саломія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дочка Іродіади, просила голову Івана",
+    "enabled": true
+  },
+  {
+    "id": "person_143",
+    "word": "Самсон",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Суддя Ізраїля, відомий надзвичайною силою",
+    "enabled": true
+  },
+  {
+    "id": "person_144",
+    "word": "Самуїл",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Пророк і останній суддя Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "person_145",
+    "word": "Сапфіра",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дружина Ананії",
+    "enabled": true
+  },
+  {
+    "id": "person_146",
+    "word": "Сара",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Дружина Авраама, мати Ісака",
+    "enabled": true
+  },
+  {
+    "id": "person_147",
+    "word": "Сатана",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Противник Бога, спокусник",
+    "enabled": true
+  },
+  {
+    "id": "person_148",
+    "word": "Саул",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Перший цар Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "person_149",
+    "word": "Секунд",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Супутник Павла",
+    "enabled": true
+  },
+  {
+    "id": "person_150",
+    "word": "Сила",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Супутник Павла",
+    "enabled": true
+  },
+  {
+    "id": "person_151",
+    "word": "Сим",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Ноя, предок семітів",
+    "enabled": true
+  },
+  {
+    "id": "person_152",
+    "word": "Симеон",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Якова та Лії",
+    "enabled": true
+  },
+  {
+    "id": "person_153",
+    "word": "Симон Зилот",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Апостол Ісуса Христа",
+    "enabled": true
+  },
+  {
+    "id": "person_154",
+    "word": "Симон Кириней",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Чоловік, який ніс хрест Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "person_155",
+    "word": "Сиса",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Воєначальник ханаанського царя",
+    "enabled": true
+  },
+  {
+    "id": "person_156",
+    "word": "Сит",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Третій син Адама та Єви",
+    "enabled": true
+  },
+  {
+    "id": "person_157",
+    "word": "Соломон",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Цар Ізраїля, збудував храм у Єрусалимі",
+    "enabled": true
+  },
+  {
+    "id": "person_158",
+    "word": "Сотник",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Римський сотник з великою вірою",
+    "enabled": true
+  },
+  {
+    "id": "person_159",
+    "word": "Софонія",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Пророк, автор Книги Софонії",
+    "enabled": true
+  },
+  {
+    "id": "person_160",
+    "word": "Степан",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Перший християнський мученик",
+    "enabled": true
+  },
+  {
+    "id": "person_161",
+    "word": "Тертій",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Писар послання до Римлян",
+    "enabled": true
+  },
+  {
+    "id": "person_162",
+    "word": "Тимофій",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Супутник Павла, єпископ",
+    "enabled": true
+  },
+  {
+    "id": "person_163",
+    "word": "Тит",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Супутник Павла, єпископ Криту",
+    "enabled": true
+  },
+  {
+    "id": "person_164",
+    "word": "Тома",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Апостол, названий Близнюком",
+    "enabled": true
+  },
+  {
+    "id": "person_165",
+    "word": "Фаддей",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Апостол, брат Якова",
+    "enabled": true
+  },
+  {
+    "id": "person_166",
+    "word": "Фамна",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Дружина Іра, невістка Юди",
+    "enabled": true
+  },
+  {
+    "id": "person_167",
+    "word": "Филимон",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Християнин з Колос",
+    "enabled": true
+  },
+  {
+    "id": "person_168",
+    "word": "Филип",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Апостол Ісуса Христа",
+    "enabled": true
+  },
+  {
+    "id": "person_169",
+    "word": "Фортунат",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Християнин з Коринту",
+    "enabled": true
+  },
+  {
+    "id": "person_170",
+    "word": "Халев",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Розвідник, який увійшов у Ханаан",
+    "enabled": true
+  },
+  {
+    "id": "person_171",
+    "word": "Хам",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Ноя, предок хамітів",
+    "enabled": true
+  },
+  {
+    "id": "person_172",
+    "word": "Юда",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Син Якова, родоначальник коліна",
+    "enabled": true
+  },
+  {
+    "id": "person_173",
+    "word": "Юст",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Кандидат на місце Юди",
+    "enabled": true
+  },
+  {
+    "id": "person_174",
+    "word": "Яків",
+    "category": "Люди",
+    "difficulty": "Легко",
+    "description": "Син Ісака, родоначальник 12 колін",
+    "enabled": true
+  },
+  {
+    "id": "person_175",
+    "word": "Яфет",
+    "category": "Люди",
+    "difficulty": "середній",
+    "description": "Син Ноя, предок яфетидів",
+    "enabled": true
+  },
+  {
+    "id": "person_176",
+    "word": "Ґедеон",
+    "category": "Люди",
+    "difficulty": "експерт",
+    "description": "Суддя Ізраїля, переміг мадіянітян",
+    "enabled": true
+  }
+]

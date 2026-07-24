@@ -1,0 +1,802 @@
+[
+  {
+    "id": "city_1",
+    "word": "Єн-Ґеді",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Оазис в Юдейській пустелі",
+    "enabled": true
+  },
+  {
+    "id": "city_2",
+    "word": "Єрихон",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Місто пальм, перше завойоване місто в Ханаані",
+    "enabled": true
+  },
+  {
+    "id": "city_3",
+    "word": "Єрусалим",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Столиця Ізраїля, святе місто",
+    "enabled": true
+  },
+  {
+    "id": "city_4",
+    "word": "Авен",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Місто в Єгипті, центр сонячного культу",
+    "enabled": true
+  },
+  {
+    "id": "city_5",
+    "word": "Адма",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в долині Сіддім, зруйноване з Содомом",
+    "enabled": true
+  },
+  {
+    "id": "city_6",
+    "word": "Аккад",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в землі Шинеар, царство Німрода",
+    "enabled": true
+  },
+  {
+    "id": "city_7",
+    "word": "Акко",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Галілеї",
+    "enabled": true
+  },
+  {
+    "id": "city_8",
+    "word": "Аммон",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Столиця аммонітян",
+    "enabled": true
+  },
+  {
+    "id": "city_9",
+    "word": "Амфіполь",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Македонії, через яке проходив Павло",
+    "enabled": true
+  },
+  {
+    "id": "city_10",
+    "word": "Анатот",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в коліні Веніамина, рідне місто Єремії",
+    "enabled": true
+  },
+  {
+    "id": "city_11",
+    "word": "Аполлонія",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Македонії",
+    "enabled": true
+  },
+  {
+    "id": "city_12",
+    "word": "Арад",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Ханаанське місто",
+    "enabled": true
+  },
+  {
+    "id": "city_13",
+    "word": "Ароер",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто на березі Арнону",
+    "enabled": true
+  },
+  {
+    "id": "city_14",
+    "word": "Аріматея",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Юдеї, звідки походив Йосип",
+    "enabled": true
+  },
+  {
+    "id": "city_15",
+    "word": "Аскалон",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто филистимлян, одне з п'яти головних міст",
+    "enabled": true
+  },
+  {
+    "id": "city_16",
+    "word": "Ахая",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Римська провінція в Греції",
+    "enabled": true
+  },
+  {
+    "id": "city_17",
+    "word": "Ашдод",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Филистимське місто",
+    "enabled": true
+  },
+  {
+    "id": "city_18",
+    "word": "Ашкалон",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Филистимське місто",
+    "enabled": true
+  },
+  {
+    "id": "city_19",
+    "word": "Аштерот-Карнаїм",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто рефаїв на схід від Йордану",
+    "enabled": true
+  },
+  {
+    "id": "city_20",
+    "word": "Бет-Ель",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто, де Яків бачив сходи",
+    "enabled": true
+  },
+  {
+    "id": "city_21",
+    "word": "Бет-Шемеш",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто священників",
+    "enabled": true
+  },
+  {
+    "id": "city_22",
+    "word": "Боцра",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Едомі",
+    "enabled": true
+  },
+  {
+    "id": "city_23",
+    "word": "Вавилон",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Столиця Вавилонського царства, місто вежі",
+    "enabled": true
+  },
+  {
+    "id": "city_24",
+    "word": "Вефиль",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто, де Яків бачив драбину до неба",
+    "enabled": true
+  },
+  {
+    "id": "city_25",
+    "word": "Віфанія",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Село біля Єрусалиму, дім Марти та Марії",
+    "enabled": true
+  },
+  {
+    "id": "city_26",
+    "word": "Віфлеєм",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Місто Давида, місце народження Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "city_27",
+    "word": "Віфсаїда",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто в Галілеї, рідне місто Петра",
+    "enabled": true
+  },
+  {
+    "id": "city_28",
+    "word": "Газа",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто филистимлян на південному заході",
+    "enabled": true
+  },
+  {
+    "id": "city_29",
+    "word": "Гай",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто біля Вефилю, завойоване Ісусом Навином",
+    "enabled": true
+  },
+  {
+    "id": "city_30",
+    "word": "Гат",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Филистимське місто",
+    "enabled": true
+  },
+  {
+    "id": "city_31",
+    "word": "Гоморра",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто в долині Сіддім, зруйноване сіркою та вогнем",
+    "enabled": true
+  },
+  {
+    "id": "city_32",
+    "word": "Дамаск",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Столиця Сирії, древнє місто",
+    "enabled": true
+  },
+  {
+    "id": "city_33",
+    "word": "Дан",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто на півночі Ізраїля, крайня точка землі",
+    "enabled": true
+  },
+  {
+    "id": "city_34",
+    "word": "Дервія",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Лікаонії, яке відвідав Павло",
+    "enabled": true
+  },
+  {
+    "id": "city_35",
+    "word": "Дивон",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Моаві",
+    "enabled": true
+  },
+  {
+    "id": "city_36",
+    "word": "Дотан",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто, де Йосипа продали в рабство",
+    "enabled": true
+  },
+  {
+    "id": "city_37",
+    "word": "Екрон",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Филистимське місто, останнє з п'яти головних",
+    "enabled": true
+  },
+  {
+    "id": "city_38",
+    "word": "Ела",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Долина, де Давид переміг Ґоліята",
+    "enabled": true
+  },
+  {
+    "id": "city_39",
+    "word": "Елам",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Давнє місто-царство на схід від Вавилону",
+    "enabled": true
+  },
+  {
+    "id": "city_40",
+    "word": "Ен-Ґеді",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Оазис на західному березі Мертвого моря",
+    "enabled": true
+  },
+  {
+    "id": "city_41",
+    "word": "Ерех",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в землі Шинеар",
+    "enabled": true
+  },
+  {
+    "id": "city_42",
+    "word": "Ефес",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто в Малій Азії, центр ранньої церкви",
+    "enabled": true
+  },
+  {
+    "id": "city_43",
+    "word": "Кадеш",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місце в пустелі, де Ізраїль перебував довгий час",
+    "enabled": true
+  },
+  {
+    "id": "city_44",
+    "word": "Калах",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Ассирії",
+    "enabled": true
+  },
+  {
+    "id": "city_45",
+    "word": "Кана",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Місто в Галілеї, де Ісус зробив перше чудо",
+    "enabled": true
+  },
+  {
+    "id": "city_46",
+    "word": "Капернаум",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Місто в Галілеї, центр служіння Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "city_47",
+    "word": "Кенхрея",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Східна гавань Коринту",
+    "enabled": true
+  },
+  {
+    "id": "city_48",
+    "word": "Кесарія",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Приморське місто в Юдеї, резиденція римських правителів",
+    "enabled": true
+  },
+  {
+    "id": "city_49",
+    "word": "Коринт",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто в Греції, важливий християнський центр",
+    "enabled": true
+  },
+  {
+    "id": "city_50",
+    "word": "Лаодикія",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто у Фригії, одна з семи церков",
+    "enabled": true
+  },
+  {
+    "id": "city_51",
+    "word": "Лахіш",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Юдеї",
+    "enabled": true
+  },
+  {
+    "id": "city_52",
+    "word": "Лістра",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Лікаонії, яке відвідав Павло",
+    "enabled": true
+  },
+  {
+    "id": "city_53",
+    "word": "Магдала",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Галілеї, звідки походила Марія Магдалина",
+    "enabled": true
+  },
+  {
+    "id": "city_54",
+    "word": "Мальта",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Острів у Середземному морі, де Павло зазнав аварії",
+    "enabled": true
+  },
+  {
+    "id": "city_55",
+    "word": "Махпела",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Печера в Хевроні, місце поховання патріархів",
+    "enabled": true
+  },
+  {
+    "id": "city_56",
+    "word": "Мемфіс",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Давня столиця Єгипту",
+    "enabled": true
+  },
+  {
+    "id": "city_57",
+    "word": "Моав",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Країна та місто на схід від Мертвого моря",
+    "enabled": true
+  },
+  {
+    "id": "city_58",
+    "word": "Мілет",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Малій Азії, де Павло прощався з ефеськими старійшинами",
+    "enabled": true
+  },
+  {
+    "id": "city_59",
+    "word": "Мітілена",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Головне місто острова Лесбос",
+    "enabled": true
+  },
+  {
+    "id": "city_60",
+    "word": "Міцпа",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в коліні Веніамина, збірне місце Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "city_61",
+    "word": "Назарет",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Місто в Галілеї, де виріс Ісус",
+    "enabled": true
+  },
+  {
+    "id": "city_62",
+    "word": "Наїн",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Галілеї, де Ісус воскресив сина вдови",
+    "enabled": true
+  },
+  {
+    "id": "city_63",
+    "word": "Нов",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто священників, де Давид отримав хліби показні",
+    "enabled": true
+  },
+  {
+    "id": "city_64",
+    "word": "Ніневія",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Столиця Ассирії, велике місто",
+    "enabled": true
+  },
+  {
+    "id": "city_65",
+    "word": "Олександрія",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Велике місто в Єгипті, центр освіти",
+    "enabled": true
+  },
+  {
+    "id": "city_66",
+    "word": "Офра",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в коліні Манасії, рідне місто Гедеона",
+    "enabled": true
+  },
+  {
+    "id": "city_67",
+    "word": "Патмос",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Острів",
+    "enabled": true
+  },
+  {
+    "id": "city_68",
+    "word": "Пергам",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Малій Азії, одна з семи церков",
+    "enabled": true
+  },
+  {
+    "id": "city_69",
+    "word": "Птолемаїда",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Приморське місто в Юдеї (Акко)",
+    "enabled": true
+  },
+  {
+    "id": "city_70",
+    "word": "Путеолі",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Італії, де Павло зійшов на берег",
+    "enabled": true
+  },
+  {
+    "id": "city_71",
+    "word": "Рама",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в коліні Веніамина",
+    "enabled": true
+  },
+  {
+    "id": "city_72",
+    "word": "Рамот-Ґілеад",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто-сховище на схід від Йордану",
+    "enabled": true
+  },
+  {
+    "id": "city_73",
+    "word": "Ресен",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто між Ніневією та Калахом",
+    "enabled": true
+  },
+  {
+    "id": "city_74",
+    "word": "Реховот-Ір",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Ассирії",
+    "enabled": true
+  },
+  {
+    "id": "city_75",
+    "word": "Рим",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Столиця Римської імперії",
+    "enabled": true
+  },
+  {
+    "id": "city_76",
+    "word": "Самарія",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Столиця Північного Ізраїльського царства",
+    "enabled": true
+  },
+  {
+    "id": "city_77",
+    "word": "Самос",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Острів та місто в Егейському морі",
+    "enabled": true
+  },
+  {
+    "id": "city_78",
+    "word": "Сарди",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Малій Азії",
+    "enabled": true
+  },
+  {
+    "id": "city_79",
+    "word": "Сидон",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Давнє фінікійське місто",
+    "enabled": true
+  },
+  {
+    "id": "city_80",
+    "word": "Силом",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто скинії",
+    "enabled": true
+  },
+  {
+    "id": "city_81",
+    "word": "Сихем",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто в центрі Ханаану, між горою Евал та Герізім",
+    "enabled": true
+  },
+  {
+    "id": "city_82",
+    "word": "Содом",
+    "category": "Міста",
+    "difficulty": "Легко",
+    "description": "Місто в долині Сіддім, зруйноване Богом",
+    "enabled": true
+  },
+  {
+    "id": "city_83",
+    "word": "Солунь",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто в Македонії, важливий християнський центр",
+    "enabled": true
+  },
+  {
+    "id": "city_84",
+    "word": "Тарс",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто в Кілікії, рідне місто Павла",
+    "enabled": true
+  },
+  {
+    "id": "city_85",
+    "word": "Троада",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Приморське місто в Малій Азії",
+    "enabled": true
+  },
+  {
+    "id": "city_86",
+    "word": "Тів",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто",
+    "enabled": true
+  },
+  {
+    "id": "city_87",
+    "word": "Тір",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Фінікійське місто-порт",
+    "enabled": true
+  },
+  {
+    "id": "city_88",
+    "word": "Тіятира",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Малій Азії, одна з семи церков",
+    "enabled": true
+  },
+  {
+    "id": "city_89",
+    "word": "Ур",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Халдеї, звідки вийшов Авраам",
+    "enabled": true
+  },
+  {
+    "id": "city_90",
+    "word": "Филипи",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Македонії, перша європейська церква",
+    "enabled": true
+  },
+  {
+    "id": "city_91",
+    "word": "Харан",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Месопотамії, де зупинився Авраам",
+    "enabled": true
+  },
+  {
+    "id": "city_92",
+    "word": "Хеврон",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Місто в Юдеї, місце поховання патріархів",
+    "enabled": true
+  },
+  {
+    "id": "city_93",
+    "word": "Хоразін",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Галілеї, де Ісус чинив чуда",
+    "enabled": true
+  },
+  {
+    "id": "city_94",
+    "word": "Цевоїм",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в долині Сіддім, зруйноване з Содомом",
+    "enabled": true
+  },
+  {
+    "id": "city_95",
+    "word": "Цоан",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто в Єгипті",
+    "enabled": true
+  },
+  {
+    "id": "city_96",
+    "word": "Цоар",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто, куди втік Лот із Содому",
+    "enabled": true
+  },
+  {
+    "id": "city_97",
+    "word": "Шушан",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Столиця Персії",
+    "enabled": true
+  },
+  {
+    "id": "city_98",
+    "word": "Шіло",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Місто, де стояла Скинія",
+    "enabled": true
+  },
+  {
+    "id": "city_99",
+    "word": "Шінеар",
+    "category": "Міста",
+    "difficulty": "середній",
+    "description": "Країна та місто (Вавилонія)",
+    "enabled": true
+  },
+  {
+    "id": "city_100",
+    "word": "Ґат",
+    "category": "Міста",
+    "difficulty": "експерт",
+    "description": "Филистимське місто, батьківщина Ґоліята",
+    "enabled": true
+  }
+]

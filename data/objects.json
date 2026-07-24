@@ -1,0 +1,418 @@
+[
+  {
+    "id": "object_1",
+    "word": "Єлей",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Рослинна олія для помазання, освітлення та приготування їжі.",
+    "enabled": true
+  },
+  {
+    "id": "object_2",
+    "word": "Єфод",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Священний одяг первосвященика, витканий із золота та кольорових ниток.",
+    "enabled": true
+  },
+  {
+    "id": "object_3",
+    "word": "Вівтар",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Місце принесення жертв",
+    "enabled": true
+  },
+  {
+    "id": "object_4",
+    "word": "Вінець",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Головний убір",
+    "enabled": true
+  },
+  {
+    "id": "object_5",
+    "word": "Губка",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Губка з оцтом, яку подали Ісусові на хресті для пиття.",
+    "enabled": true
+  },
+  {
+    "id": "object_6",
+    "word": "Жезл Ааронів",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Палиця Аарона, яка чудесно зацвіла мигдалем, засвідчивши його священство.",
+    "enabled": true
+  },
+  {
+    "id": "object_7",
+    "word": "Жертовник",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Споруда для принесення жертв Богові в скинії та храмі.",
+    "enabled": true
+  },
+  {
+    "id": "object_8",
+    "word": "Золоте теля",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Золотий ідол у вигляді теляти, зроблений Аароном на прохання народу.",
+    "enabled": true
+  },
+  {
+    "id": "object_9",
+    "word": "Золото",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Дорогоцінний метал, згадуваний у Біблії з Едему до Нового Єрусалиму.",
+    "enabled": true
+  },
+  {
+    "id": "object_10",
+    "word": "Зірка Давида",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Гексаграма, символ Давида та Ізраїлю, хоч прямо не згадується.",
+    "enabled": true
+  },
+  {
+    "id": "object_11",
+    "word": "Кадило",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Посудина для спалювання ладану під час богослужіння.",
+    "enabled": true
+  },
+  {
+    "id": "object_12",
+    "word": "Кам'яні скрижалі",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Дві кам'яні плити з Десятьма Заповідями, написані Божим перстом.",
+    "enabled": true
+  },
+  {
+    "id": "object_13",
+    "word": "Книга",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Зібрання писаних текстів; згадується Книга життя.",
+    "enabled": true
+  },
+  {
+    "id": "object_14",
+    "word": "Ковчег Заповіту",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Священна скриня з дерева акації, обкладена золотом, для зберігання таблиць Закону.",
+    "enabled": true
+  },
+  {
+    "id": "object_15",
+    "word": "Колісниця",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Бойовий віз, запряжений кіньми, використовуваний у стародавніх арміях.",
+    "enabled": true
+  },
+  {
+    "id": "object_16",
+    "word": "Копій",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Спис, яким римський воїн проколов ребро Ісуса на хресті.",
+    "enabled": true
+  },
+  {
+    "id": "object_17",
+    "word": "Корона",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Царський головний убір як символ влади.",
+    "enabled": true
+  },
+  {
+    "id": "object_18",
+    "word": "Ладан",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Запашна смола для кадіння в скинії та храмі.",
+    "enabled": true
+  },
+  {
+    "id": "object_19",
+    "word": "Лук",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Зброя для стрільби стрілами, поширена в стародавні часи.",
+    "enabled": true
+  },
+  {
+    "id": "object_20",
+    "word": "Манна",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Небесний хліб",
+    "enabled": true
+  },
+  {
+    "id": "object_21",
+    "word": "Манна небесна",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Небесний хліб, яким Бог годував ізраїльтян у пустелі.",
+    "enabled": true
+  },
+  {
+    "id": "object_22",
+    "word": "Менора",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Золотий семираменний світильник, що стояв у скинії та храмі.",
+    "enabled": true
+  },
+  {
+    "id": "object_23",
+    "word": "Меч",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Холодна зброя для бою, згадувана в багатьох біблійних битвах.",
+    "enabled": true
+  },
+  {
+    "id": "object_24",
+    "word": "Мирра",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Запашна смола, принесена волхвами як дарунок Ісусові.",
+    "enabled": true
+  },
+  {
+    "id": "object_25",
+    "word": "Монети",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Металеві гроші, згадувані в контексті зради Юди.",
+    "enabled": true
+  },
+  {
+    "id": "object_26",
+    "word": "Мідний змій",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Мідне зображення змія, виготовлене Мойсеєм для зцілення укушених.",
+    "enabled": true
+  },
+  {
+    "id": "object_27",
+    "word": "Намет",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Переносне житло кочівників, зокрема патріархів.",
+    "enabled": true
+  },
+  {
+    "id": "object_28",
+    "word": "Наперсник",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Квадратна нашита прикраса на єфоді первосвященика з дванадцятьма каменями.",
+    "enabled": true
+  },
+  {
+    "id": "object_29",
+    "word": "Ноїв ковчег",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Велике судно, яке Ной збудував за Божим наказом для порятунку від потопу.",
+    "enabled": true
+  },
+  {
+    "id": "object_30",
+    "word": "Одяг",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Одяг, який Бог зробив Адамові та Єві зі шкур.",
+    "enabled": true
+  },
+  {
+    "id": "object_31",
+    "word": "Оцет",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Кисле вино, яке дали Ісусові на хресті для втамування спраги.",
+    "enabled": true
+  },
+  {
+    "id": "object_32",
+    "word": "Перепелиці",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Птахи, яких Бог наслав ізраїльтянам у пустелі для споживання м'яса.",
+    "enabled": true
+  },
+  {
+    "id": "object_33",
+    "word": "Плащаниця",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Поховальне полотно",
+    "enabled": true
+  },
+  {
+    "id": "object_34",
+    "word": "Посох Мойсея",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Посох, яким Мойсей чинив чудеса перед фараоном та в пустелі.",
+    "enabled": true
+  },
+  {
+    "id": "object_35",
+    "word": "Потир",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Чаша для причастя, яку Ісус подав учням на Таємній вечері.",
+    "enabled": true
+  },
+  {
+    "id": "object_36",
+    "word": "Праща",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Метальна зброя з ременя, якою Давид переміг Голіафа.",
+    "enabled": true
+  },
+  {
+    "id": "object_37",
+    "word": "Рибальська сітка",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Знаряддя для ловлі риби, яке використовували учні Ісуса.",
+    "enabled": true
+  },
+  {
+    "id": "object_38",
+    "word": "Свічник",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Семираменний світильник",
+    "enabled": true
+  },
+  {
+    "id": "object_39",
+    "word": "Скинія",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Переносний храм ізраїльтян у пустелі, місце Божої присутності.",
+    "enabled": true
+  },
+  {
+    "id": "object_40",
+    "word": "Скрижалі",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Кам'яні плити з Десятьма Заповідями, дані Мойсеєві на Синаї.",
+    "enabled": true
+  },
+  {
+    "id": "object_41",
+    "word": "Срібло",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Дорогоцінний сріблястий метал, що використовувався як валюта.",
+    "enabled": true
+  },
+  {
+    "id": "object_42",
+    "word": "Стріли",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Метальні снаряди для лука, використовувані в полюванні та війні.",
+    "enabled": true
+  },
+  {
+    "id": "object_43",
+    "word": "Стіл хлібів показних",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Золотий стіл у скинії, на який клали дванадцять хлібів.",
+    "enabled": true
+  },
+  {
+    "id": "object_44",
+    "word": "Сувій",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Згорток пергаменту або папірусу для письма, використовуваний у давнину.",
+    "enabled": true
+  },
+  {
+    "id": "object_45",
+    "word": "Сім свічників",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Сім золотих свічників, які символізують сім церков в Об'явленні.",
+    "enabled": true
+  },
+  {
+    "id": "object_46",
+    "word": "Терновий вінець",
+    "category": "Предмети",
+    "difficulty": "середній",
+    "description": "Вінець із тернини, покладений на голову Ісуса перед розп'яттям.",
+    "enabled": true
+  },
+  {
+    "id": "object_47",
+    "word": "Урім і Туммім",
+    "category": "Предмети",
+    "difficulty": "експерт",
+    "description": "Священні предмети в наперснику для визначення Божої волі.",
+    "enabled": true
+  },
+  {
+    "id": "object_48",
+    "word": "Хрест",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Знаряддя страти, на якому був розп'ятий Ісус Христос.",
+    "enabled": true
+  },
+  {
+    "id": "object_49",
+    "word": "Чаша",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Посудина для пиття, яка в Біблії часто символізує долю.",
+    "enabled": true
+  },
+  {
+    "id": "object_50",
+    "word": "Човен",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Плавзасіб для рибальства та подорожей, згадуваний у Новому Заповіті.",
+    "enabled": true
+  },
+  {
+    "id": "object_51",
+    "word": "Шолом",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Головний убір воїна для захисту в битві.",
+    "enabled": true
+  },
+  {
+    "id": "object_52",
+    "word": "Щит",
+    "category": "Предмети",
+    "difficulty": "Легко",
+    "description": "Захисне озброєння воїна, згадуване в описах біблійних битв.",
+    "enabled": true
+  }
+]

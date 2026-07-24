@@ -1,0 +1,474 @@
+[
+  {
+    "id": "place_1",
+    "word": "Єгипет",
+    "category": "Місця",
+    "difficulty": "Легко",
+    "description": "Давня цивілізація на Нілі",
+    "enabled": true
+  },
+  {
+    "id": "place_2",
+    "word": "Єрусалимський храм",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Храм у Єрусалимі, дім Божий",
+    "enabled": true
+  },
+  {
+    "id": "place_3",
+    "word": "Ідумея",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Грецька назва Едому",
+    "enabled": true
+  },
+  {
+    "id": "place_4",
+    "word": "Ізраїль",
+    "category": "Місця",
+    "difficulty": "Легко",
+    "description": "Земля обіцяна, названа від Якова",
+    "enabled": true
+  },
+  {
+    "id": "place_5",
+    "word": "Італія",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Країна, столицею якої був Рим",
+    "enabled": true
+  },
+  {
+    "id": "place_6",
+    "word": "Азія",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Римська провінція в Малій Азії",
+    "enabled": true
+  },
+  {
+    "id": "place_7",
+    "word": "Аммон",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Країна нащадків Бен-Аммі, на схід від Йордану",
+    "enabled": true
+  },
+  {
+    "id": "place_8",
+    "word": "Аравійська пустеля",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Велика пустеля на південь від Ханаану",
+    "enabled": true
+  },
+  {
+    "id": "place_9",
+    "word": "Арарат",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Гори, де зупинився Ноїв ковчег",
+    "enabled": true
+  },
+  {
+    "id": "place_10",
+    "word": "Армагеддон",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Місце останньої битви",
+    "enabled": true
+  },
+  {
+    "id": "place_11",
+    "word": "Армаґеддон",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Місце останньої битви, гора Мегіддо",
+    "enabled": true
+  },
+  {
+    "id": "place_12",
+    "word": "Вавилон",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Імперія на території Месопотамії",
+    "enabled": true
+  },
+  {
+    "id": "place_13",
+    "word": "Вавилонська вежа",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Вежа, яку будували в Шинеарі",
+    "enabled": true
+  },
+  {
+    "id": "place_14",
+    "word": "Велике море",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Західний кордон Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "place_15",
+    "word": "Галілейське море",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Озеро в Галілеї, де Ісус ходив по воді",
+    "enabled": true
+  },
+  {
+    "id": "place_16",
+    "word": "Галілея",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Північна область Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "place_17",
+    "word": "Гефсиманія",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Сад біля Єрусалиму",
+    "enabled": true
+  },
+  {
+    "id": "place_18",
+    "word": "Голгофа",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Місце розп'яття Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "place_19",
+    "word": "Гіхон",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Річка в Едемі, що оточує Етіопію",
+    "enabled": true
+  },
+  {
+    "id": "place_20",
+    "word": "Евал",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Гора прокляття в Сихемі",
+    "enabled": true
+  },
+  {
+    "id": "place_21",
+    "word": "Евфрат",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Велика річка в Месопотамії",
+    "enabled": true
+  },
+  {
+    "id": "place_22",
+    "word": "Едем",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Сад, створений Богом",
+    "enabled": true
+  },
+  {
+    "id": "place_23",
+    "word": "Едемський сад",
+    "category": "Місця",
+    "difficulty": "Легко",
+    "description": "Райський сад, створений Богом",
+    "enabled": true
+  },
+  {
+    "id": "place_24",
+    "word": "Едом",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Країна нащадків Ісава, на південь від Юдеї",
+    "enabled": true
+  },
+  {
+    "id": "place_25",
+    "word": "Золота брама",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Брама в Єрусалимському храмі",
+    "enabled": true
+  },
+  {
+    "id": "place_26",
+    "word": "Йордан",
+    "category": "Місця",
+    "difficulty": "Легко",
+    "description": "Головна річка Ізраїля, де Ісус хрестився",
+    "enabled": true
+  },
+  {
+    "id": "place_27",
+    "word": "Кедрон",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Потік між Єрусалимом та Оливною горою",
+    "enabled": true
+  },
+  {
+    "id": "place_28",
+    "word": "Кілікія",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Область у Малій Азії, рідний край Павла",
+    "enabled": true
+  },
+  {
+    "id": "place_29",
+    "word": "Кішон",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Річка в Ізраїлі, де Девора перемогла ханаанців",
+    "enabled": true
+  },
+  {
+    "id": "place_30",
+    "word": "Ліван",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Гірський хребет на півночі Ханаану",
+    "enabled": true
+  },
+  {
+    "id": "place_31",
+    "word": "Македонія",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Країна на півночі Греції",
+    "enabled": true
+  },
+  {
+    "id": "place_32",
+    "word": "Меліт",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Острів, де Павло зазнав аварії корабля (Мальта)",
+    "enabled": true
+  },
+  {
+    "id": "place_33",
+    "word": "Мертве море",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Солоне озеро, де були Содом і Гоморра",
+    "enabled": true
+  },
+  {
+    "id": "place_34",
+    "word": "Моав",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Країна нащадків Моава",
+    "enabled": true
+  },
+  {
+    "id": "place_35",
+    "word": "Морія",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Гора, де Авраам мав принести Ісака в жертву",
+    "enabled": true
+  },
+  {
+    "id": "place_36",
+    "word": "Нево",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Гора, з якої Мойсей побачив Обіцяну землю",
+    "enabled": true
+  },
+  {
+    "id": "place_37",
+    "word": "Ніл",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Річка в Єгипті",
+    "enabled": true
+  },
+  {
+    "id": "place_38",
+    "word": "Оливна",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Гора на сході Єрусалиму, місце вознесіння Ісуса",
+    "enabled": true
+  },
+  {
+    "id": "place_39",
+    "word": "Оливна гора",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Гора біля Єрусалиму",
+    "enabled": true
+  },
+  {
+    "id": "place_40",
+    "word": "Памфілія",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Область у Малій Азії",
+    "enabled": true
+  },
+  {
+    "id": "place_41",
+    "word": "Персія",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Імперія на схід від Вавилону",
+    "enabled": true
+  },
+  {
+    "id": "place_42",
+    "word": "Поле крови",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Земля, куплена за срібло Юди, Акелдама",
+    "enabled": true
+  },
+  {
+    "id": "place_43",
+    "word": "Пустеля Сур",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Пустеля на заході Синайського півострова",
+    "enabled": true
+  },
+  {
+    "id": "place_44",
+    "word": "Пустеля Фаран",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Пустеля на Синайському півострові",
+    "enabled": true
+  },
+  {
+    "id": "place_45",
+    "word": "Пісідія",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Область у Малій Азії",
+    "enabled": true
+  },
+  {
+    "id": "place_46",
+    "word": "Пішон",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Річка в Едемі, що оточує землю Хавіла",
+    "enabled": true
+  },
+  {
+    "id": "place_47",
+    "word": "Самарія",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Область між Юдеєю та Галілеєю",
+    "enabled": true
+  },
+  {
+    "id": "place_48",
+    "word": "Солоне море",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Інша назва Мертвого моря",
+    "enabled": true
+  },
+  {
+    "id": "place_49",
+    "word": "Соляний стовп",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Стовп, у який перетворилася дружина Лота",
+    "enabled": true
+  },
+  {
+    "id": "place_50",
+    "word": "Сіон",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Гора в Єрусалимі, символ Божої присутності",
+    "enabled": true
+  },
+  {
+    "id": "place_51",
+    "word": "Тигр",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Річка в Месопотамії",
+    "enabled": true
+  },
+  {
+    "id": "place_52",
+    "word": "Ханаан",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Обіцяна земля",
+    "enabled": true
+  },
+  {
+    "id": "place_53",
+    "word": "Хермон",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Найвища гора в Ізраїлі, на півночі",
+    "enabled": true
+  },
+  {
+    "id": "place_54",
+    "word": "Хорив",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Гора Божа, інша назва Сінаю",
+    "enabled": true
+  },
+  {
+    "id": "place_55",
+    "word": "Червоне море",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Море, яке розступилося перед Ізраїлем",
+    "enabled": true
+  },
+  {
+    "id": "place_56",
+    "word": "Юдейська пустеля",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Пустеля на схід від Єрусалиму",
+    "enabled": true
+  },
+  {
+    "id": "place_57",
+    "word": "Юдея",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Південна область Ізраїля",
+    "enabled": true
+  },
+  {
+    "id": "place_58",
+    "word": "Ґефсиманія",
+    "category": "Місця",
+    "difficulty": "експерт",
+    "description": "Сад біля Єрусалиму, де молився Ісус",
+    "enabled": true
+  },
+  {
+    "id": "place_59",
+    "word": "Ґілбоа",
+    "category": "Місця",
+    "difficulty": "середній",
+    "description": "Гора, де загинув цар Саул",
+    "enabled": true
+  }
+]
